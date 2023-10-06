@@ -15,7 +15,8 @@
 4. :heavy_check_mark: Train your own transformer (E-D) (do anything you want, use PyTorch, OCP, PS, AMP, etc), but get your loss under 1.8
 
 ### Results
-![image](https://github.com/RaviNaik/ERA-SESSION16/assets/23289802/0bd51449-88e5-4423-bc92-cdab57356ec3)
+<img width="901" alt="image" src="https://github.com/Navya-S/SESSION_16/assets/43130696/ac926b15-6fd1-4d29-9af3-e29107f68312">
+
 **Note:** Detailed results are presnt in results folder as a CSV file
 
 ### Model Summary
