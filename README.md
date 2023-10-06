@@ -68,7 +68,7 @@ def process_dataset(ds: HFDataset, config):
     return cleaned_data
 ```
 **Output:**
-![image](https://github.com/RaviNaik/ERA-SESSION16/assets/23289802/ef9fa30d-5fc9-46c7-8a50-3aa465d317d9)
+![image](https://github.com/Navya-S/SESSION_16/assets/23289802/ef9fa30d-5fc9-46c7-8a50-3aa465d317d9)
 
 ### Parameter Sharing
 ```python
